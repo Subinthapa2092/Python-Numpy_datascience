@@ -1,0 +1,6 @@
+#### 
+#### np.isnana which detect the missing values
+### np.nan_to_num() replace number with the function
+### np.isnf() infinite values detect 
+## NaN is a Not a number 
+## True for known value and False For a unknown Values 
